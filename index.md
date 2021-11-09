@@ -62,9 +62,20 @@ Each discussion will have its own page.
 
 The page where admins can see all of the information across the site, such as users, activity etc.
 
-### Members 
+## Developers
 
-#### Lasse Wardenær 
-Lasse is a graduate student doing a MSc in control engineering. 
+### Quinn Bianchi-Lawson
 
+A computer engineering student at UH CoE, Quinn is scheduled to graduate in Spring 2022.
+
+### Constantine Peros
+
+Constantine is an ICS student, interested in game development, AR, VR, Cryptocurrency, Robotics, and Surfing.
+
+### Chase Miyasato
+
+Chase was born and raised in Hawaii and has been surfing from a young age.
+
+#### Lasse Wardenær
+Lasse is a graduate student doing a MSc in control engineering.
 -----
