@@ -17,7 +17,7 @@ This section provides a walkthrough of the Bowfolios user interface and its capa
 
 ### Landing page
 
-This page will have card and information on various breaks
+This page will have cards and information on the best breaks
      - distance from campus, by skill level,
      - wave direction (lefts or rights),
      - ideal swell directions
