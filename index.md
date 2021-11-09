@@ -69,7 +69,7 @@ A computer engineering student at UH CoE, Quinn is scheduled to graduate in Spri
 
 ### Constantine Peros
 
-Constantine is an ICS student, interested in game development, AR, VR, Cryptocurrency, Robotics, Fishing, and Surfing.
+Constantine is an ICS student, interested in game development, AR/VR, Cryptocurrency, Robotics, Fishing, and Surfing.
 
 ### Chase Miyasato
 
