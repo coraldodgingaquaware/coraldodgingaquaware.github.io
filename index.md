@@ -1,5 +1,3 @@
-# Coral Dodging Aquaware
-
 ## Table of contents
 
 * [Overview](#overview)
