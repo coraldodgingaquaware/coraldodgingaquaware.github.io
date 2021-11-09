@@ -39,7 +39,7 @@ Where new users sign up.
 Where you can see the contact info of people you've talked to before.
 
 
-### List of beaches with info about them
+### List of beaches
 
 A list of all the beaches in the system, can filter by certain parameters or search by name.
 
