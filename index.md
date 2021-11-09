@@ -57,6 +57,7 @@ Public exchange of ideas, where there will be a list in order of recency, of all
 
 Each discussion will have its own page.
 
+
 ### Admin homepage
 
 The page where admins can see all of the information across the site, such as users, activity etc.
@@ -69,7 +70,7 @@ A computer engineering student at UH CoE, Quinn is scheduled to graduate in Spri
 
 ### Constantine Peros
 
-Constantine is an ICS student, interested in game development, AR&VR, Cryptocurrency, Robotics, Fishing, and Surfing.
+Constantine is an ICS student, interested in game development, AR, VR, Cryptocurrency, Robotics, and Surfing.
 
 ### Chase Miyasato
 
