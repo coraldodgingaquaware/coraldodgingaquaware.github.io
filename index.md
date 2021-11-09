@@ -62,5 +62,10 @@ Each discussion will have its own page.
 
 The page where admins can see all of the information across the site, such as users, activity etc.
 
+## Developers
+
+### Quinn Bianchi-Lawson
+
+A computer engineering student at UH CoE, Quinn is scheduled to graduate in Spring 2022.
 
 -----
