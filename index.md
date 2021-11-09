@@ -62,5 +62,9 @@ Each discussion will have its own page.
 
 The page where admins can see all of the information across the site, such as users, activity etc.
 
+### Members 
+
+#### Lasse Wardenær 
+Lasse is a graduate student doing a MSc in control engineering. 
 
 -----
