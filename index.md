@@ -14,6 +14,7 @@ Coral Dodging Aquaware is a project designed to list and categorize various beac
 
 This section provides a walkthrough of the Bowfolios user interface and its capabilities.
 
+
 ### Landing page
 
 This page will have card and information on various breaks
@@ -22,36 +23,45 @@ This page will have card and information on various breaks
      - ideal swell directions
      - ideal swell sizes.
 
+
 ### Sign in page
 
 Where returning users sign in.
+
 
 ### Sign up page
 
 Where new users sign up.
 
+
 ### Friends list
 
 Where you can see the contact info of people you've talked to before.
+
 
 ### List of beaches with info about them
 
 A list of all the beaches in the system, can filter by certain parameters or search by name.
 
+
 ### Page for each beach
 
 Each beach will have its own page with all teh information known on it, as well as a comment section for people to leave suggestions/reviews.
+
 
 ### Public forums board
 
 Public exchange of ideas, where there will be a list in order of recency, of all the threads of conversation people have about things like the best beaches, best beaches for new surfers, meetups and whatever else people want to talk about.
 
+
 ### Page for each public forum
 
 Each discussion will have its own page.
 
+
 ### Admin homepage
 
 The page where admins can see all of the information across the site, such as users, activity etc.
+
 
 -----
