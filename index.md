@@ -62,5 +62,8 @@ Each discussion will have its own page.
 
 The page where admins can see all of the information across the site, such as users, activity etc.
 
+### Members
 
+### Chase Miyasato
+Chase was born and raised in Hawaii and has been surfing from a young age.
 -----
