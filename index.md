@@ -72,4 +72,8 @@ A computer engineering student at UH CoE, Quinn is scheduled to graduate in Spri
 
 Constantine is an ICS student, interested in game development, AR, VR, Cryptocurrency, Robotics, and Surfing.
 
+### Chase Miyasato
+
+Chase was born and raised in Hawaii and has been surfing from a young age.
+
 -----
