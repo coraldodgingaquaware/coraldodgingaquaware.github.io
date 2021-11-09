@@ -14,54 +14,44 @@ Coral Dodging Aquaware is a project designed to list and categorize various beac
 
 This section provides a walkthrough of the Bowfolios user interface and its capabilities.
 
-### Landing Page
+### Landing page
 
-The landing page is presented to users when they visit the top-level URL to the site.
+This page will have card and information on various breaks
+     - distance from campus, by skill level,
+     - wave direction (lefts or rights),
+     - ideal swell directions
+     - ideal swell sizes.
 
-![](images/landing-page.png)
+### Sign in page
 
-### Index pages (Projects, Profiles, Interests)
+Where returning users sign in.
 
-Bowfolios provides three public pages that present the contents of the database organized in various ways.
+### Sign up page
 
-The Profiles page shows all the current defined profiles and their associated Projects and Interests:
+Where new users sign up.
 
-![](images/profiles-page.png)
+### Friends list
 
-The Projects page shows all of the currently defined Projects and their associated Profiles and Interests:
+Where you can see the contact info of people you've talked to before.
 
-![](images/projects-page.png)
+### List of beaches with info about them
 
-Finally, the Interests page shows all the currently defined Interests, and their associated Profiles and Projects:
+A list of all the beaches in the system, can filter by certain parameters or search by name.
 
-![](images/interests-page.png)
+### Page for each beach
 
+Each beach will have its own page with all teh information known on it, as well as a comment section for people to leave suggestions/reviews.
 
-### Sign in and sign up
+### Public forums board
 
-Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
+Public exchange of ideas, where there will be a list in order of recency, of all the threads of conversation people have about things like the best beaches, best beaches for new surfers, meetups and whatever else people want to talk about.
 
-![](images/signin-page.png)
+### Page for each public forum
 
-Alternatively, you can select "Sign up" to go to the following page and register as a new user:
+Each discussion will have its own page.
 
-![](images/signup-page.png)
+### Admin homepage
 
-### Home page
+The page where admins can see all of the information across the site, such as users, activity etc.
 
-After logging in, you are taken to the home page, which presents a form where you can complete and/or update your personal profile:
-
-![](images/home-page.png)
-
-### Add Project page
-
-Once you are logged in, you can define new projects with the Add Project page:
-
-![](images/add-project-page.png)
-
-
-### Filter page
-
-The Filter page provides the ability to query the database and display the results in the page. In this case, the query displays all of the Profiles that match one or more of the specified Interest(s).
-
-![](images/filter-page.png)
+-----
