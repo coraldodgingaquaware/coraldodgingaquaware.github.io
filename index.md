@@ -79,4 +79,5 @@ Chase was born and raised in Hawaii and has been surfing from a young age.
 #### Lasse Wardenær
 
 Lasse is a graduate student doing an MSc in control engineering.
+
 -----
