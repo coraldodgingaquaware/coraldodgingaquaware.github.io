@@ -76,7 +76,7 @@ Constantine is an ICS student, interested in game development, AR, VR, Cryptocur
 
 Chase was born and raised in Hawaii and has been surfing from a young age.
 
-#### Lasse Wardenær
+### Lasse Wardenær
 
 Lasse is a graduate student doing an MSc in control engineering.
 
