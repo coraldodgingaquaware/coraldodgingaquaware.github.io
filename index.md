@@ -5,9 +5,9 @@
 
 ## Overview
 
-Coral Dodging Aquaware is a project designed to list and categorize various beaches and Surfbreaks around UH Manoa and Oahu.  The breaks could be listed by distance from campus, by skill level, wave direction (lefts or rights), ideal swell directions, and ideal swell sizes.  This app could be helpful for the students who have come to UH Manoa from other places and would like to know which beaches would be ideal to surf for their skill level.  Maybe we could include potential hazards as well and a basic descirption of the location.  We could also add additional information to the app such as other activities that could be done at the beaches, such as swimming, snorkeling, volleyball or scuba diving.  We plan on having two roles, an administrative role as well as a basic user role.  Users can view the places while admins can make changes.  Different tabs could be used to reflect different skill level or other categories.  A user can specify skill level and get various suggestions based on their skill level.  User logs in, sets up profiles and can browse or receive suggestions.  We could also implement a rating system where users can rate the breaks.  Depending on how far we get maybe some beyond the basics features could be implemented, user generated reviews of places or maybe a chat area where people can discuss.
+WaveCache is a project designed to list and categorize various beaches and Surfbreaks around UH Manoa and Oahu.  The breaks could be listed by distance from campus, by skill level, wave direction (lefts or rights), ideal swell directions, and ideal swell sizes.  This app could be helpful for the students who have come to UH Manoa from other places and would like to know which beaches would be ideal to surf for their skill level.  Maybe we could include potential hazards as well and a basic descirption of the location.  We could also add additional information to the app such as other activities that could be done at the beaches, such as swimming, snorkeling, volleyball or scuba diving.  We plan on having two roles, an administrative role as well as a basic user role.  Users can view the places while admins can make changes.  Different tabs could be used to reflect different skill level or other categories.  A user can specify skill level and get various suggestions based on their skill level.  User logs in, sets up profiles and can browse or receive suggestions.  We could also implement a rating system where users can rate the breaks.  Depending on how far we get maybe some beyond the basics features could be implemented, user generated reviews of places or maybe a chat area where people can discuss.
 
-Current Mock Up: https://studntnu-my.sharepoint.com/:b:/g/personal/lassetw_ntnu_no/ER4MvZZXC5VJkEwnQwLg744BxYV8sqoXK-FxqbB4tIq1rw?e=dQj4tf
+The current mock up can be found <a href="https://studntnu-my.sharepoint.com/:b:/g/personal/lassetw_ntnu_no/ER4MvZZXC5VJkEwnQwLg744BxYV8sqoXK-FxqbB4tIq1rw?e=dQj4tf">here</a>
 
 ## User Guide
 
@@ -75,5 +75,9 @@ Constantine is an ICS student, interested in game development, AR, VR, Cryptocur
 ### Chase Miyasato
 
 Chase was born and raised in Hawaii and has been surfing from a young age.
+
+### Lasse Wardenær
+
+Lasse is a graduate student doing an MSc in control engineering.
 
 -----
