@@ -35,6 +35,7 @@ Where returning users sign in.
 ### Sign up page
 
 Where new users sign up.
+<a href="http://www.wavecache.surf/#/signup">Here</a>
 
 
 ### Friends list
