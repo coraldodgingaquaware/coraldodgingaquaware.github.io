@@ -48,6 +48,7 @@ Where new users sign up.
 ### Friends list
 
 Where you can see the contact info of people you've talked to before.
+![Picture of the landing screen](/Images/friendsPage11-18.png)
 
 
 ### List of breaks
