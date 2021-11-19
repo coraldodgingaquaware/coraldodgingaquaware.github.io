@@ -60,7 +60,7 @@ A list of all the breaks in the system, can filter by certain parameters or sear
 ### Page for each Break
 
 
-![Surf Break Page](/Images/SurfBreakPage.png)
+![Surf Break Page](/Images/surfBreakPage.png)
 
 Each break will have its own page with all teh information known on it, as well as a comment section for people to leave suggestions/reviews.
 
