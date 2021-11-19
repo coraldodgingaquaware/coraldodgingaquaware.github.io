@@ -43,9 +43,11 @@ Where new users sign up.
 Where you can see the contact info of people you've talked to before.
 
 
-### List of beaches
+### List of breaks
 
-A list of all the beaches in the system, can filter by certain parameters or search by name.
+<img href="./Images/SurfBreaks.png"/>
+
+A list of all the breaks in the system, can filter by certain parameters or search by name.
 
 
 ### Page for each beach
