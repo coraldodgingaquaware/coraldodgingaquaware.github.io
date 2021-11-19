@@ -11,9 +11,9 @@ The current mock up can be found <a href="https://studntnu-my.sharepoint.com/:b:
 
 The GitHub organization associated with this project and all of its repositories can be found at <a href="https://github.com/wavecache">this link</a>.
 
-Our first project board, M1, can be found <a href="https://github.com/wavecache/sharkbreaks/projects/1>here</a>.
+Our first project board, M1, can be found <a href="https://github.com/wavecache/sharkbreaks/projects/1">here</a>.
   
-Our second project board, M2, can be found <a href="https://github.com/wavecache/sharkbreaks/projects/2>here</a>.
+Our second project board, M2, can be found <a href="https://github.com/wavecache/sharkbreaks/projects/2">here</a>.
 
 ## Deployment
 
