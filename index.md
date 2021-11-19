@@ -9,7 +9,7 @@ WaveCache is a project designed to list and categorize various beaches and Surfb
 
 The current mock up can be found <a href="https://studntnu-my.sharepoint.com/:b:/g/personal/lassetw_ntnu_no/ER4MvZZXC5VJkEwnQwLg744BxYV8sqoXK-FxqbB4tIq1rw?e=dQj4tf">here</a>
 
-The site is located at <ahref="http://www.wavecache.surf/#/">Wave Cache</a>, come join us! 
+The site is located at <a href="http://www.wavecache.surf/#/">Wave Cache</a>, come join us! 
 
 ## User Guide
 
