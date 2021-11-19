@@ -36,7 +36,7 @@ Where returning users sign in.
 
 Where new users sign up.
 <a href="http://www.wavecache.surf/#/signup">Here</a>
-![Surf Breaks](../Images/Register.jpg")
+<img src="../Images/Register.jpg">
 
 
 ### Friends list
@@ -46,7 +46,7 @@ Where you can see the contact info of people you've talked to before.
 
 ### List of breaks
 
-![Surf Breaks](/Images/SurfBreaks.png)
+![Surf Breaks](/Images/SurfBreaks.png")
 
 A list of all the breaks in the system, can filter by certain parameters or search by name.
 
