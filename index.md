@@ -36,7 +36,7 @@ Where returning users sign in.
 
 Where new users sign up.
 <a href="http://www.wavecache.surf/#/signup">Here</a>
-![Surf Breaks](../Images/Register.jpg")
+![Regisr](../Images/Register.jpg")
 
 
 ### Friends list
