@@ -23,7 +23,7 @@ This section provides a walkthrough of the Bowfolios user interface and its capa
 ### Landing page
 
 This page will have the navbar, a surfing background and some basic welcoming info about the site.
-![Picture of the landing screen](/images/LandingPage11-18.png)
+![Picture of the landing screen](/Images/LandingPage11-18.png)
 
 
 ### Sign in page
