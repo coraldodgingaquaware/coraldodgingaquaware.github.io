@@ -42,7 +42,7 @@ Where you can see the contact info of people you've talked to before.
 
 ### List of breaks
 
-<img href="./Images/SurfBreaks.png"/>
+![Surf Breaks](/Images/SurfBreaks.png")
 
 A list of all the breaks in the system, can filter by certain parameters or search by name.
 
