@@ -59,7 +59,7 @@ A list of all the breaks in the system. If you are logged in, you are able to ad
 
 ### Add surf break page
 
-Add a surf break to the Mongo database. The changes is sent to the Mongo database and updated throughout the app. 
+Add a surf break if logged in. The changes is sent to the Mongo database and updated throughout the app. 
 
 ![Surf Breaks](/Images/addPage.png)
 
