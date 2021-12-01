@@ -23,6 +23,26 @@ Our third project board, M3, can be found <a href="https://github.com/wavecache/
 
 The site is located at <a href="http://www.wavecache.surf/#/">Wave Cache</a>, come join us! 
 
+## Installation
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, go to [https://github.com/wavecache/sharkbreaks](https://github.com/wavecache/sharkbreaks), and click the "Code" button. Then clone the directory to your local computer. Using [GitHub Desktop](https://desktop.github.com/) is a great choice if you use MacOS or Windows.
+
+Fourth, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
+
+```
+$ meteor npm install
+```
+
+## Running the system
+
+Once the libraries are installed, you can run the application by invoking the "start" script in the [package.json file](https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/app/package.json):
+
+```
+$ meteor npm run start
+```
+
 ## User Guide
 
 This section provides a walkthrough of the Bowfolios user interface and its capabilities.
@@ -87,10 +107,6 @@ Currently the page can get information about the break from the Mongo data base.
 ### Public forums board
 
 Public exchange of ideas, where there will be a list in order of recency, of all the threads of conversation people have about things like the best beaches, best beaches for new surfers, meetups and whatever else people want to talk about.
-
-### Add profile page
-
-Was kinda working, now it isnt. Npt working great probably starting over on this in M3.
 
 
 ### Page for each public forum
