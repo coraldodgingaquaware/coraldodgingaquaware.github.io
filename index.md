@@ -67,6 +67,13 @@ Where new users sign up.
 
 <img src="/Images/Register.JPG">
 
+### Profile page
+
+Where new users sign up.
+<a href="http://www.wavecache.surf/#/profile">Here</a>
+
+<img src="/Images/Profile.JPG">
+
 
 
 ### Friends list
