@@ -88,6 +88,10 @@ Currently the page can get information about the break from the Mongo data base.
 
 Public exchange of ideas, where there will be a list in order of recency, of all the threads of conversation people have about things like the best beaches, best beaches for new surfers, meetups and whatever else people want to talk about.
 
+### Add profile page
+
+Was kinda working, now it isnt. Npt working great probably starting over on this in M3.
+
 
 ### Page for each public forum
 
