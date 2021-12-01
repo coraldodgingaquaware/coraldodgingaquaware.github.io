@@ -55,7 +55,7 @@ Where you can see the contact info of people you've talked to before.
 
 ![Surf Breaks](/Images/SBPage.png)
 
-A list of all the breaks in the system, can filter by certain parameters or search by name.
+A list of all the breaks in the system. If you are logged in, you are able to add a new break. In addition you can edit the breaks made by yourself. By clicking on the card title, it takes you to the surf break page.
 
 
 ### Page for each Break
