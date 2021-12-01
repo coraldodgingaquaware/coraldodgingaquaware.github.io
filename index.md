@@ -17,6 +17,8 @@ Our first project board, M1, can be found <a href="https://github.com/wavecache/
   
 Our second project board, M2, can be found <a href="https://github.com/wavecache/sharkbreaks/projects/2">here</a>.
 
+Our third project board, M3, can be found <a href="https://github.com/wavecache/sharkbreaks/projects/3">here</a>.
+
 ## Deployment
 
 The site is located at <a href="http://www.wavecache.surf/#/">Wave Cache</a>, come join us! 
