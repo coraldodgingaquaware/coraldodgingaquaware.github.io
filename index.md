@@ -63,7 +63,9 @@ A list of all the breaks in the system, can filter by certain parameters or sear
 
 ![Surf Break Page](/Images/surfBreakPage.png)
 
-Each break will have its own page with all teh information known on it, as well as a comment section for people to leave suggestions/reviews.
+Each break will have its own page with all the information known on it, as well as an overview of the friends who have liked the break.
+
+Currently the page can get information about the break from the Mongo data base. It is also fetching data from an API every 10th second. The like fuctionality is missing, but will be implemented once the friends list fuctlionality is done. 
 
 
 ### Public forums board
