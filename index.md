@@ -69,7 +69,7 @@ Where new users sign up.
 
 ### Profile page
 
-Where new users sign up.
+Where your profile is displayed, (must be signed in the view)
 <a href="http://www.wavecache.surf/#/profile">Here</a>
 
 <img src="/Images/Profile.JPG">
