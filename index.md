@@ -57,6 +57,18 @@ Where you can see the contact info of people you've talked to before.
 
 A list of all the breaks in the system. If you are logged in, you are able to add a new break. In addition you can edit the breaks made by yourself. By clicking on the card title, it takes you to the surf break page.
 
+### Add surf break page
+
+Add a surf break to the Mongo database. The changes is sent to the Mongo database and updated throughout the app. 
+
+![Surf Breaks](/Images/addPage.png)
+
+### Edit surf break page
+
+Edit a page made by the logged in user. The changes is sent to the Mongo database and updated throughout the app. 
+
+![Surf Breaks](/Images/editPage.png)
+
 
 ### Page for each Break
 
