@@ -27,6 +27,27 @@ I like the way the site showes me breaks I did not know about, and that I can fi
 ### Jack Walter, Local Surfer and Student at UH
 I’d like to have the website include real time footage of what the surf is like at the most popular surfing spots. I´d also like some information on what breaks are used by the locals and experienced surfers, and which ones that are suitable for beginners.
 
+### Justin Silver, CTAR Student at UH
+I really love the user interface. The overall aesthetic of the website is very pleasing to look at and its easy to navigate through as well.
+
+My favorite part of this website though is the up to date weather reports. It comes in handy when a few friends and I want to go out and surf but aren't sure of the conditions.
+
+Thanks a lot!
+
+### Nick Kwon, Engineering Student at UH
+1) the front page, this is kinda nit picky, but the sentence that starts with and just seems kinda funky. I think it would be better if you just said welcome
+
+2) i dont actually know how to become friends with other people, so the friends page seems kinda odd
+
+3) when i got to my profile it looks like it pulls up someones else's profile or something? not really too sure how to describe so ill send a picture.
+
+4) does the filter actually work? might be another instance like the account registering where it is filtering results, but i didnt see any visual queues, so i didnt seem like it was working.
+
+other wise looks really great! i really the like the color palette you chose, everything looks clean, very informative and overall seems like some thing i would really wanna use if i was into surfing! I like the logo you found/made. especially love the site name, i always appreciate a good punny/catchy name xD
+
+### Ryan Vizcarra, Computer Engineering Student at UH
+My initial thoughts of the design and first impression of wave cache.surf is “wow” after it loaded for the very first time for me. I like the massive picture in the middle that coincides with the color scheme of the site. Your eyes tend to just focus on the central point in the picture which is what wave cache is compared to other websites that’s way way too busy, which tends to overwhelm me but not wave cache which is good.  The sign-up page looks great all fields looks to be working nice touch on making the color for “stay informed about” that really helped make it stand out. In the find your break tab everything is nicely executed.  Clicking on area opens up a new page that gives you a lot more information about the location. I like how each section has an introduction I like knowing what i’m getting into. haha. Overall I can tell a lot of thought has gone into creating this awesome website. As with any developing website there are some really minor issues that i’m sure given a little bit of more time would have been fixed. For example, the filter function in find your break doesn’t seem to work but it doesn’t take away from the site a whole lot cause there are other ways to find what you need.
+
 ## Deployment
 
 The site is located at <a href="http://www.wavecache.surf/#/">Wave Cache</a>, come join us! 
