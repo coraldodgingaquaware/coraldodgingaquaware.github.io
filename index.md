@@ -41,7 +41,7 @@ Thanks a lot!
 
 3) when i got to my profile it looks like it pulls up someones else's profile or something? not really too sure how to describe so ill send a picture.
 
-4) does the filter actually work? might be another instance like the account registering where it is filtering results, but i didnt see any visual queues, so i didnt seem like it was working.
+4) does the filter actually work? might be another instance like the account registering where it is filtering results, but i didnt see any visual queues, so i didnt seem like it was working.(This feature has been improved based on the feedback)
 
 other wise looks really great! i really the like the color palette you chose, everything looks clean, very informative and overall seems like some thing i would really wanna use if i was into surfing! I like the logo you found/made. especially love the site name, i always appreciate a good punny/catchy name xD
 
