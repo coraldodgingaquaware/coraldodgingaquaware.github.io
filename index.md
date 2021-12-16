@@ -94,7 +94,9 @@ Where you can see the contact info of people you've talked to before.
 
 ![Surf Breaks](/Images/SurfBreaks.png)
 
-A list of all the breaks in the system. If you are logged in, you are able to add a new break. In addition you can edit the breaks made by yourself. By clicking on the card title, it takes you to the surf break page.
+A list of all the breaks in the system. If you are logged in, you are able to add a new break. In addition you can edit and delete the breaks made by yourself. By clicking on the card title, it takes you to the surf break page.
+
+By writing in the filter section, you can find the break you are looking for.
 
 ### Add surf break page
 
@@ -117,6 +119,8 @@ Edit a page made by the logged in user. The changes is sent to the Mongo databas
 Each break will have its own page with all the information known on it, as well as an overview of the friends who have liked the break.
 
 Currently the page can get information about the break from the Mongo data base. It is also fetching data from an API every 10th second. The like fuctionality is missing, but will be implemented once the friends list fuctlionality is done. 
+
+You can also click on the map which directs you to the correct location on Google Maps.
 
 
 ### Public forums board
