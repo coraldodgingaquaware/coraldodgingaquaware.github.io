@@ -142,6 +142,8 @@ Currently the page can get information about the break from the Mongo data base.
 
 You can also click on the map which directs you to the correct location on Google Maps.
 
+On the bottom of your page you can see all the users who follow the break.
+
 
 ### Public forums board
 
