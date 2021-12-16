@@ -24,6 +24,9 @@ Our third project board, M3, can be found <a href="https://github.com/wavecache/
 ### Andreas Fosse, UH Renewable Energy Engineering(Exchange Student)
 I like the way the site showes me breaks I did not know about, and that I can filter easily if I am looking for a specific one. I also like that you can add your own breaks and that it is connected to your profile. However, I would like if some of the community features were more expanded. I think this would have been fixed with time, but it would certainly have lifted the experience.  
 
+### Jack Walter, Local Surfer and Student at UH
+ I’d like to have the website include real time footage of what the surf is like at the most popular surfing spots.
+
 ## Deployment
 
 The site is located at <a href="http://www.wavecache.surf/#/">Wave Cache</a>, come join us! 
