@@ -87,7 +87,6 @@ Where your profile is displayed, (must be signed in the view)
 ### Friends list
 
 Where you can see the contact info of people you've talked to before.
-![Picture of the landing screen](/Images/friendsPage11-18.png)
 
 
 ### List of breaks
